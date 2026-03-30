@@ -17,7 +17,7 @@ The goal of this project is to:
 
 ## 📌 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://github.com/shradha-pol/customer-revenue-dashboard/blob/a2e46efd1d818a0ca874df001417c8072f0ed1b9/Dashboard%20Preview.png?raw=true)
 
 ---
 
